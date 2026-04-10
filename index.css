@@ -634,10 +634,10 @@ nav button:hover:not(.active) {
 .consulter-btn{
   padding: 10px 20px;
   border-radius: 10px;
-  color: #fff;
+  color: #1a0a00;
   background-color: var(--accent);
   font-size: larger;
-  font-weight: 500;
+  font-weight: bolder;
   margin: 10px 0;
   cursor: pointer;
   transition: all 0.6s;
